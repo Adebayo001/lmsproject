@@ -1,4 +1,6 @@
-<?php include("includes/header.php"); ?>
+<?php include("includes/header.php"); 
+header("Location: errorpage.php");
+?>
 	<!-- Hero section -->
 	<section class="hero-section set-bg" data-setbg="img/bg.jpg">
 		<div class="container">
