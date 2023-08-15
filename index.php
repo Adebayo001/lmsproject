@@ -1,5 +1,5 @@
 <?php include("includes/header.php"); 
-header("Location: errorpage.php");
+header("Location: offline/xml/errorpage.php");
 ?>
 	<!-- Hero section -->
 	<section class="hero-section set-bg" data-setbg="img/bg.jpg">
